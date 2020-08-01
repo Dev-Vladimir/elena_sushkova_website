@@ -443,6 +443,7 @@ a.last-article{text-decoration: none;}
 		z-index: 1;
 	}
 	.last-article>.article-preview>.title{margin-top: 10px;}
+	.last-article>.article-preview>.text{margin-top: 10px;}
 	.popular>h3, .blog-items>.blog-item, .subscribe{padding-left: 0;}
 	.subscribe{margin-top: 20px;}
 	
