@@ -461,11 +461,13 @@ a.last-article{text-decoration: none;}
 	.courses-items>.item>.image>img{width: auto; height: 100%;}
 
 	.footer>.container>.d-flex{justify-content: center;}
+	.bottom-nav{order: 2; margin-top: 20px;}
 	.bottom-nav>ul{flex-wrap: wrap;}
 	.bottom-nav>ul>li{display: flex; flex-basis: 100%; justify-content: center; margin-bottom: 10px;}
 	.bottom-nav>ul>li>a{margin-right: 0; text-transform: uppercase;}
 	.bottom-nav>ul>li>a:hover{padding-right: 0; border-bottom: none; text-decoration: underline;}
-	.social{justify-content: space-between; flex-basis: 50%; margin-top: 20px;}
+	.social{justify-content: space-between; flex-basis: 50%; order: 1;}
 	.social>a{margin: 0;}
+	.copy{margin-top: 20px;}
 	
 }
