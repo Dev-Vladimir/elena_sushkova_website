@@ -401,7 +401,7 @@ a.last-article{text-decoration: none;}
 		line-height: 60px;
 	}
 	h2{font-size: 32px;}
-	.main-screen{align-items: center; position: relative;}
+	.main-screen{align-items: center; position: relative; height: 100vh;}
 	.main-screen-content{
 		margin-bottom: auto;
 		
